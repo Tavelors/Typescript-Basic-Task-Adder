@@ -15,7 +15,7 @@ const DeleteList: React.FC<IProps> = ({id, setData, data }) => {
         setData((curr: IProps['data']) => {
             let newData = [...curr]
             return newData.filter((filt) => {
-                console.log(filt);
+        
                 
                 if(filt.id === id) {
                     return;
@@ -28,7 +28,7 @@ const DeleteList: React.FC<IProps> = ({id, setData, data }) => {
     }
 
   return (
-    <strong> <button onClick={handleClick} >X</button> </strong>
+    <strong> <button onClick={handleClick} ><svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /></svg></button> </strong>
   )
 }
 
