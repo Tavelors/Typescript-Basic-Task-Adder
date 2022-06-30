@@ -18,7 +18,7 @@ const Data = () => {
       const [completeData, setCompleteData] = useState<IState["data"]>([])
 const [changeList, setChangeList] = useState<IState['changeList']>(true)
 
-console.log(data, completeData, 'complete');
+
 
 let currentList: any;
 let showDataAdd: any;

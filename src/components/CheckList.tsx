@@ -21,7 +21,7 @@ const CheckList: React.FC<IProps> = ({id, setData, data, completeData, setComple
 
 
 const handleClick = () => {
-    console.log(id);
+
     
     setData((curr: IProps['data']) => {
         let newData = [...curr]
@@ -42,9 +42,9 @@ const handleClick = () => {
                 return;
             }
         })
-        // console.log(completeData, filt);
+  
         
-        return [...curr, ...filt]
+        return [...filt, ...curr]
     })
 }
 
