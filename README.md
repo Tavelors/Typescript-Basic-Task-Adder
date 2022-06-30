@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## This project was built using 
 - Typescript
-- croco
+- craco
 - tailwind css
 - styled components
 - twin macro
