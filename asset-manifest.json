@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tavelors/Typescript-Basic-Task-Adder/static/css/main.6157ddc7.css",
+    "main.js": "/Tavelors/Typescript-Basic-Task-Adder/static/js/main.c91877a1.js",
+    "index.html": "/Tavelors/Typescript-Basic-Task-Adder/index.html",
+    "main.6157ddc7.css.map": "/Tavelors/Typescript-Basic-Task-Adder/static/css/main.6157ddc7.css.map",
+    "main.c91877a1.js.map": "/Tavelors/Typescript-Basic-Task-Adder/static/js/main.c91877a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6157ddc7.css",
+    "static/js/main.c91877a1.js"
+  ]
+}
