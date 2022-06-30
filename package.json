@@ -1,7 +1,7 @@
 {
   "name": "first-type",
   "version": "0.1.0",
-  "homepage": "https://github.com/Tavelors/Typescript-Basic-Task-Adder",
+  "homepage": "https://tavelors.github.io/Typescript-Basic-Task-Adder",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.4.3",
