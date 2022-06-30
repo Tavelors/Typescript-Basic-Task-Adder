@@ -1,6 +1,6 @@
 # Tast adder
 
-View this project on [Live Site]().
+View this project on [Live Site](https://tavelors.github.io/Typescript-Basic-Task-Adder/).
 
 ## Available Scripts
 
